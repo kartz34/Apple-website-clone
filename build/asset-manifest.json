@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b034e42.css",
+    "main.js": "/static/js/main.7777046b.js",
+    "static/media/iphone11-pro-bg.jpg": "/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
+    "static/media/iphone11-colored.jpg": "/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
+    "static/media/macbookair-new.jpg": "/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/spyder.jpg": "/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
+    "static/media/actors.jpg": "/static/media/actors.10f4f8d078a989ccb9bc.jpg",
+    "static/media/ipodPronew.jpg": "/static/media/ipodPronew.03e7d6e41eae3bca23ad.jpg",
+    "static/media/watch.jpg": "/static/media/watch.8c1f1e9707b29ce07494.jpg",
+    "static/media/apple-card-monthly.jpg": "/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
+    "static/media/macbookair-new-sm.jpg": "/static/media/macbookair-new-sm.0a6fe6cc80d2c1257b36.jpg",
+    "static/media/ipodPronew-sm.jpg": "/static/media/ipodPronew-sm.fc51d11e103f25e4b84b.jpg",
+    "index.html": "/index.html",
+    "main.3b034e42.css.map": "/static/css/main.3b034e42.css.map",
+    "main.7777046b.js.map": "/static/js/main.7777046b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b034e42.css",
+    "static/js/main.7777046b.js"
+  ]
+}
